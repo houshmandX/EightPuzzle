@@ -74,7 +74,7 @@ better than blind search, but Euclidian distance performed better. Therefore heu
 performing differently in different algorithms.
 
 
-How to run the code:
+##How to run the code:
 
 please run this command in the project directory:
 
