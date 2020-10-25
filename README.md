@@ -1,6 +1,6 @@
 # EightPuzzle solver
 
-![omt diagram](image/eightpuzzle.jpg)
+![omt diagram](picture/eightpuzzle.jpg)
 
 #Introduction
 In this project, I write a program called 8-puzzle solver. This project requires using 3 search algorithms
