@@ -79,5 +79,6 @@ performing differently in different algorithms.
 please run this command in the project directory:
 
 g++ main.cpp puzzle.cpp
-
+OR
+g++ -std=c++11 main.cpp puzzle.cpp
 *****************************************************************************
